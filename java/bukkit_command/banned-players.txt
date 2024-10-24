@@ -1,0 +1,14 @@
+# Updated 7/31/23 10:35 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+king_george|2022-11-15 00:10:17 +0000|(Unknown)|Forever|Banned by an operator.
+timurfan6969|2022-12-10 21:29:09 +0000|(Unknown)|Forever|Banned by an operator.
+sniffer|2022-12-10 23:55:30 +0000|(Unknown)|Forever|ERROR PLEASE TRY AGAIN.
+manofsniff|2022-12-11 00:01:12 +0000|(Unknown)|Forever|Banned by an operator.
+emperor|2022-12-11 20:25:14 +0000|(Unknown)|Forever|Banned by an operator.
+susremixer|2022-12-11 22:48:30 +0000|(Unknown)|Forever|Banned by an operator.
+junt_123|2022-12-13 00:16:02 +0000|(Unknown)|Forever|Banned by an operator.
+deez|2022-12-17 18:38:43 +0000|(Unknown)|Forever|This is an automatic ban. Reason: INAPROPRIATE NAME.
+deeznuts|2022-12-17 18:39:42 +0000|(Unknown)|Forever|Nut Funny.
+hehehehaw|2022-12-17 18:40:10 +0000|(Unknown)|Forever|Why just why.
+|2022-12-25 00:20:28 +0000|2022-12-24 23:54:51 +0000|Forever|Forever|Banned by an operator.

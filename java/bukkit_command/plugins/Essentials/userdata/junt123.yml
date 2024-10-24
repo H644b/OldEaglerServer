@@ -1,0 +1,21 @@
+timestamps:
+  login: 1672084928773
+  lastteleport: 1671558048707
+  logout: 1672085085528
+ipAddress: 127.0.0.1
+nickname: Jeremy
+lastlocation:
+  world: world
+  x: -100.77287024400542
+  y: 79.0
+  z: 295.65283735400953
+  yaw: -98.09845
+  pitch: 35.699997
+logoutlocation:
+  world: world
+  x: -180.97896233256225
+  y: 67.0
+  z: 370.69999998807907
+  yaw: -33.44989
+  pitch: 17.249992
+afk: false

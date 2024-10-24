@@ -1,0 +1,33 @@
+timestamps:
+  login: 1672967477478
+  logout: 1672967511568
+  lastteleport: 1672191725547
+  mute: 0
+  kits:
+    firework: 1672191455194
+    color: 1672188916557
+ipAddress: 127.0.0.1
+nickname: §b§k§l§n§oJasurbek
+lastlocation:
+  world: world
+  x: -96.5
+  y: 93.47220483041717
+  z: 266.5
+  yaw: -188.10002
+  pitch: 61.35
+godmode: true
+afk: false
+logoutlocation:
+  world: world
+  x: -172.4088091904687
+  y: 89.61283239337314
+  z: 372.2881430925051
+  yaw: 111.3
+  pitch: 57.899998
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+money: '10000000000000'
+muted: false

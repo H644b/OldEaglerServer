@@ -1,0 +1,14 @@
+timestamps:
+  login: 1687565255252
+  logout: 1687547990283
+  kits:
+    color: 1687547913149
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -255.13144866017785
+  y: 67.74848791821934
+  z: 370.5990317315025
+  yaw: 127.80026
+  pitch: 55.800003
+afk: false

@@ -1,0 +1,39 @@
+timestamps:
+  login: 1672260523403
+  lastteleport: 1672175213583
+  logout: 1672261525653
+  kits:
+    tools: 1671981059693
+ipAddress: 127.0.0.1
+nickname: Keed69
+lastlocation:
+  world: world
+  x: -146.58972540534074
+  y: 69.38576491054187
+  z: 332.54711448993777
+  yaw: 7.4999948
+  pitch: 33.299995
+afk: false
+logoutlocation:
+  world: world
+  x: -201.5630274865177
+  y: 65.0
+  z: 425.14676366136797
+  yaw: 358.20007
+  pitch: 37.649994
+ban:
+  reason: '§4Banned:
+
+    §rDONT BREAK BLOKS IN OTHER PPLS BAESES IDIOT'
+  timeout: 0
+money: '10000000000000'
+homes:
+  home:
+    world: world
+    x: -193.6686351328086
+    y: 66.0
+    z: 438.713353919542
+    yaw: 2.3147464E-4
+    pitch: 27.449991
+powertools: {}
+godmode: false

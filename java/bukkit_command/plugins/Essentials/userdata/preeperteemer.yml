@@ -1,0 +1,33 @@
+timestamps:
+  login: 1687573379526
+  logout: 1687570729826
+  lastteleport: 1687469881158
+  kits:
+    firework: 1672190598292
+    color: 1672188926292
+    for_a_redstone_nerd: 1672234071481
+    notch: 1687467303571
+    dtools: 1672181807989
+    tools: 1672181853726
+    illegal: 1687467323779
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -146.47291359837345
+  y: 68.0
+  z: 336.1186393052329
+  yaw: -275.09946
+  pitch: 6.7499943
+nickname: §1TimurXD
+afk: false
+logoutlocation:
+  world: world
+  x: -150.90099373362955
+  y: 68.01734398664854
+  z: 354.8457298922705
+  yaw: 285.9008
+  pitch: 43.799988
+money: '64022036.0'
+socialspy: false
+godmode: false
+powertools: {}

@@ -1,0 +1,40 @@
+groups:
+  default:
+    default: true
+    permissions:
+    - modifyworld.*
+  OwnerXD:
+    prefix: '&e[&3Owner&e]&1'
+    permissions:
+    - '*'
+  owner:
+    prefix: '&6[&cOwner&6]&7'
+  Admins:
+    permissions:
+    - essentials.*
+    - essentials.gamemode
+    - essentials.afk
+    - essentials.speed
+    - essentials.hat
+    - essentials.give
+    prefix: '&f[&4Admin&f]&7'
+  Citizen: {}
+users:
+  Preeperteemer:
+    permissions:
+    - '*'
+    options:
+      group: OwnerXD
+      OwnerXD: remove
+      remove: OwnerXD
+    group:
+    - OwnerXD
+    worlds:
+      OwnerXD: {}
+      '0': {}
+  Demo:
+    group:
+    - Admins
+  EmperorJR:
+    group:
+    - Admins
